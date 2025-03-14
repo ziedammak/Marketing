@@ -10,4 +10,4 @@ This project analyzes **marketing spend, reservations, and revenue performance**
     - ROAS calculations are based on **marketing costs aggregated at the channel level**.
     - Reservations data does not contain subchannels, so the ROAS analysis in Q1 assumes that SEM includes both Google & Bing.
 
-- **Tableau Visualization** → Available at **[https://public.tableau.com/views/report-marketing/Report?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]()**, which contains:
+**Tableau Visualization** → Available at [Report - Marketing](https://public.tableau.com/app/profile/zied.dammak/viz/report-marketing/Report).
